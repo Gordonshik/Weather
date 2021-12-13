@@ -1,0 +1,10 @@
+.widget-body {
+    height: 500px;
+    width: 300px;
+    border: solid;
+    margin: 200px auto 0 auto;
+}
+
+.cloud-icon {
+    font-size: 30px;
+}
